@@ -1,0 +1,7 @@
+categories:
+- Fastq Manipulation
+description: seqtk_seq
+long_description: Tool that converts FASTQ to FASTA files using seqtk.
+ (Just for planemo testing purpose)
+name: test_seqtk
+owner: ahmad777
